@@ -1,0 +1,11 @@
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.deps.json
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.AssemblyReference.cache
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+D:\HQ\Acme.BookStore\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
